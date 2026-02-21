@@ -1,8 +1,13 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import Main from './components/Main'
 
 const ToDo = () => {
   return (
-    <div>ToDo</div>
+    <div className='flex'>
+      <Navbar />
+      <Main />
+    </div>
   )
 }
 

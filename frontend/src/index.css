@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.hovering {
+  cursor: pointer;
+
+}
