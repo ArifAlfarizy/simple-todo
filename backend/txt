@@ -1,0 +1,8 @@
+Buat model bisa find user by id dan user id
+id berasal dari JWT nanti, controller juga akan menerima userr id dari JWT
+
+
+Buat post, update, put, delete untuk todo
+
+
+Harus bikin user dulu biar ada user id dari jwt
